@@ -3,7 +3,9 @@
 ## 使用方法
 
 * composer install   
-* cnpm install  
+* 复制 .env.example 为 .env 到当前目录  
+* php artisan key:generate  
+* cnpm install  
 * npm run production  
 * php artisan workerman start --d  
 * php artisan workerman -h 查看运行选项
