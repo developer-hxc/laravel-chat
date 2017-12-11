@@ -1,5 +1,10 @@
 # laravel+vue+iview+workerman实现即时聊天
 
+## 演示
+
+* [演示地址](http://chat.devhxc.top)  
+
+
 ## 使用方法
 
 * composer install   
